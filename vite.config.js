@@ -9,4 +9,5 @@ export default defineConfig({
     globals: true,
     setupFiles: ["./test-setup.js"],
   },
+  base:'/Z-Delivery1-2/'
 });
